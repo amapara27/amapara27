@@ -1,9 +1,33 @@
-building edge ai and apps (most of my repos are apps and tools)
+# Aayan Mapara
+**CS @ ASU**
+**DAQ Engineer (ML Systems) @ Sun Devil Motorsports Formula SAE**
 
-currently devloping: silicon - edge ai tool for visualizing and optimizing models before deployment.
+> Building Edge AI and apps. Most of my repos are apps and tools.
 
-go check out:
-recon - ai-powered ethereum security dashboard live fraudulent transaction detection (random forest classifier) and llm-powered smart contract source code analysis
-capit.ai - agentic stock analyzer with rag architecture that provides traders with both fundamental and quantitative analysis for assets
-fulcrum - portfolio optimizer that uses k-means clustering to classify held assets, which are used to generate hedges
-mosquitonet - cv application that runs on a jetson nano that classifies disease-carrying mosquitoes
+---
+
+### Currently Developing
+
+**Silicon**
+An Edge AI tool for visualizing and optimizing models before deployment.
+
+---
+
+### Go Check Out
+
+**Recon**
+*AI-powered Ethereum security dashboard.*
+* Live fraudulent transaction detection (Random Forest Classifier).
+* LLM-powered smart contract source code analysis.
+
+**Capit.ai**
+*Agentic stock analyzer with RAG architecture.*
+* Provides traders with both fundamental and quantitative analysis for assets.
+
+**Fulcrum**
+*Portfolio optimizer.*
+* Uses K-Means clustering to classify held assets, which are used to generate hedges.
+
+**Mosquitonet**
+*CV application that runs on a Jetson Nano.*
+* Classifies disease-carrying mosquitoes.
