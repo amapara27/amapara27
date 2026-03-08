@@ -10,7 +10,7 @@
 ### Currently Developing
 
 **Silicon**
-An Edge AI tool for visualizing and optimizing models before deployment.
+An Agentic IDE for visualizing and optimizing Edge AI models before deployment.
 
 ---
 
