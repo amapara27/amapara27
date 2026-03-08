@@ -1,8 +1,6 @@
 # Aayan Mapara
 **CS @ ASU** 
 
-**DAQ Engineer (ML Systems) @ Sun Devil Motorsports Formula SAE**
-
 > Applied AI/ML & Embedded Systems | Finance, DeFi & Blockchain
 
 ---
