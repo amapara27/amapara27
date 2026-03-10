@@ -1,5 +1,5 @@
 # Aayan Mapara
-**CS @ ASU** 
+**CS + Math @ ASU** 
 
 > Applied AI/ML & Embedded Systems | Finance, DeFi & Blockchain
 
