@@ -1,5 +1,5 @@
 # Aayan Mapara
-**Applied AI/ML** **Embedded Systems** **Finance, DeFi & Blockchain**
+**Applied AI/ML** 🤖 | **Embedded Systems** 🔌 | **Finance, DeFi & Blockchain** 📈
 
 ---
 
