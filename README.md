@@ -5,7 +5,7 @@
 
 ### Building
 
-**Silicon** - Agentic IDE for visualizing and optimizing Edge AI models before deployment.
+**Silicon** - Agentic IDE for visualizing and optimizing Edge AI models before deployment. \\
 **Bridge** - DevTool that bridges the gap between building any project with AI and learning how to code. 
 
 ---
