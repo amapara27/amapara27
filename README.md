@@ -1,17 +1,12 @@
 # Aayan Mapara
-**CS + Math @ ASU** 
-
-> Applied AI/ML & Embedded Systems | Finance, DeFi & Blockchain
+**Applied AI/ML** **Embedded Systems** **Finance, DeFi & Blockchain**
 
 ---
 
-### Currently Building
+### Building
 
-**Silicon**
-Agentic IDE for visualizing and optimizing Edge AI models before deployment.
-
-**Bridge**
-DevTool that bridges the gap between building any project with AI and learning how to code. 
+**Silicon** - Agentic IDE for visualizing and optimizing Edge AI models before deployment.
+**Bridge** - DevTool that bridges the gap between building any project with AI and learning how to code. 
 
 ---
 
