@@ -1,6 +1,6 @@
 # Aayan Mapara
 
-**AI + ML** | **Embedded Systems** **
+**AI + ML** | **Embedded Systems**
 
 <h2>Projects</h2>
 
