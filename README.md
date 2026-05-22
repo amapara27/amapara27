@@ -16,8 +16,7 @@
 * **[Scribe Shield](https://github.com/NathanNarrik/villagehacks):** 🥇 *1st Place (VillageHacks ASU)*. Healthcare speech-to-text that uses a fine-tuned model and ML to detect errors and verify critical medical information before correcting.
 * **[MosquitoNet](https://youtu.be/-F4rKyE8HS4)** Computer Vision Application deployed on an NVIDIA Jetson Nano that detects over 80 species of mosquitoes to prevent disease transmission. 
 
-<details>
-  <summary><h2>My Stack</h2></summary>
+<h2>My Stack</h2>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,6 +34,4 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</details>
 
