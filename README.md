@@ -41,4 +41,4 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 <h2>Stats</h2>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amapara27&show_icons=true&theme=tokyonight)](https://github.com/amapara27)
+![Stats](./profile/stats.svg)
