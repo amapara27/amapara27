@@ -39,6 +39,3 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Nvidia Jetson](https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
-<h2>Stats</h2>
-![Stats](./profile/stats.svg)
