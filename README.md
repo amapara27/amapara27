@@ -5,11 +5,12 @@
 <h2>Projects</h2>
 
 ### Currently Building
+* **[How Can I Make Money Off This?](https://github.com/amapara27/how-can-i-make-money-off-this)** Learn how to capitalize on breaking news or developments with an agentic system that researches how you can turn new information into real opportunities.
 * **[Bridge](https://github.com/ibrahim-alii/bridge):** A DevTool monorepo with human-in-the-loop verification gates, bridging the gap between AI-assisted code generation and actual developer comprehension.
 
 ### Go Check Out
 
-* **[Scribe Shield](https://github.com/NathanNarrik/villagehacks):** 🥇 *1st Place (VillageHacks ASU)*. Healthcare speech-to-text that uses a fine-tuned model and ML to detect errors and verify critical medical information before correcting.
+* **[Scribe Shield](https://github.com/NathanNarrik/villagehacks):** 🥇 *1st Place (VillageHacks ASU)*. Healthcare speech-to-text that uses a fine-tuned model and ML to detect errors and verify critical medical information with a 4.14% word error rate. 
 * **[Recon](https://github.com/amapara27/recon-ethereum-security):** Engineered a live, full-stack fraud detection engine for Ethereum and ERC-20 transactions. Containerized on AWS for sub-second latency block processing.
 * **[CarbonIQ](https://github.com/amapara27/carbon-iq):** 🥇 *1st Place - Best Use of Solana (Innovation Hacks 2.0)*. dAPP on the Solana Blockchain that links your real-world spending to a carbon score that directly boosts your staking yield—rewarding you financially for living more sustainably.
 * **[Pulse](https://github.com/amapara27/pulse-trading-agent):** Orchestrated a multi-tool RAG agent that aggregates live quantitative metrics and breaking news sentiment to synthesize insights on equities and financial markets.
