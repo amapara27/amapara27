@@ -5,7 +5,6 @@
 <h2>Projects</h2>
 
 ### Currently Building
-* **[How Can I Make Money Off This?](https://github.com/amapara27/how-can-i-make-money-off-this)** Learn how to capitalize on breaking news or developments with an agentic system that researches how you can turn new information into real opportunities.
 * **[Bridge](https://github.com/ibrahim-alii/bridge):** A DevTool monorepo with human-in-the-loop verification gates, bridging the gap between AI-assisted code generation and actual developer comprehension.
 
 ### Go Check Out
