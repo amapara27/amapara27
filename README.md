@@ -5,6 +5,7 @@
 <h2>Projects</h2>
 
 ### Currently Building
+* **[Anchor](https://github.com/amapara27/anchor):** Manage, configure, and test your local models with ease.
 * **[Bridge](https://github.com/ibrahim-alii/bridge):** A DevTool monorepo with human-in-the-loop verification gates, bridging the gap between AI-assisted code generation and actual developer comprehension.
 
 ### Go Check Out
