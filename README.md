@@ -1,12 +1,12 @@
 # Aayan Mapara
 
-**AI + ML** | **Embedded Systems**
+**AI + ML** | **Embedded Systems** | **Inference**
 
 <h2>Projects</h2>
 
 ### Currently Building
 * **[Anchor](https://github.com/amapara27/anchor):** Manage, configure, and test your local models with ease.
-* **[Bridge](https://github.com/ibrahim-alii/bridge):** A DevTool monorepo with human-in-the-loop verification gates, bridging the gap between AI-assisted code generation and actual developer comprehension.
+* **[My Own Implementation of Flash Attention](https://github.com/amapara27/flash-attention):** Flash attention from scratch w some adjustments.
 
 ### Go Check Out
 
@@ -15,6 +15,7 @@
 * **[CarbonIQ](https://github.com/amapara27/carbon-iq):** 🥇 *1st Place - Best Use of Solana (Innovation Hacks 2.0)*. dAPP on the Solana Blockchain that links your real-world spending to a carbon score that directly boosts your staking yield—rewarding you financially for living more sustainably.
 * **[Pulse](https://github.com/amapara27/pulse-trading-agent):** Orchestrated a multi-tool RAG agent that aggregates live quantitative metrics and breaking news sentiment to synthesize insights on equities and financial markets.
 * **[MosquitoNet](https://youtu.be/-F4rKyE8HS4)** Computer Vision Application deployed on an NVIDIA Jetson Nano that detects over 80 species of mosquitoes to prevent disease transmission.
+* **[Bridge](https://github.com/ibrahim-alii/bridge):** An educational dev tool to bridge the gap between AI-assisted code generation and actual developer comprehension.
 
 <h2>My Stack</h2>
 
