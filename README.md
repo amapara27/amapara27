@@ -6,7 +6,7 @@
 
 ### Currently Building
 * **[Anchor](https://github.com/amapara27/anchor):** Manage, configure, and test your local models with ease.
-* **[My Own Implementation of Flash Attention](https://github.com/amapara27/flash-attention):** Flash attention from scratch w some adjustments.
+* **[CUDA + Rust LLM Inference Engine](https://github.com/amapara27/flash-attention):** Building an LLM inference engine in CUDA + Rust, starting with Flash Attention.
 
 ### Go Check Out
 
