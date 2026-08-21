@@ -5,7 +5,7 @@
 <h2>Projects</h2>
 
 ### Currently Building
-* **[Anchor](https://github.com/amapara27/anchor):** Manage, configure, and test your local models with ease.
+* **[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease.
 * **[Blaze](https://github.com/amapara27/flash-attention):** An LLM inference engine in CUDA + Rust, currently working on Flash Attention.
 
 ### Go Check Out
