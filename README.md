@@ -5,8 +5,9 @@
 <h2>Projects</h2>
 
 ### Currently Building
-* **[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease.
-* **[Blaze](https://github.com/amapara27/flash-attention):** An LLM inference engine in CUDA + Rust, currently working on Flash Attention.
+* **[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease. First release out now.
+* * **[Ember](https://github.com/amapara27/ember):** CPU Inference Runtime for local models.
+* **[Flash Attention 2 Kernel](https://github.com/amapara27/flash-attention):** FlashAttention-2 Kernel in CUDA; currently implementing tensor cores with PTX and mma.
 
 ### Go Check Out
 
