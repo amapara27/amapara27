@@ -7,7 +7,7 @@
 ### Currently Building
 * **[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease. First release out now.
 * **[Ember](https://github.com/amapara27/ember):** CPU Inference Runtime for local llms.
-* **[Flash-Attention2 Kernel](https://github.com/amapara27/flash-attention):** FlashAttention-2 Kernel in CUDA; currently implementing tensor cores with PTX and mma.
+* **[FlashAttention-2 Kernel](https://github.com/amapara27/flash-attention):** FlashAttention-2 Kernel in CUDA; currently implementing tensor cores with PTX and mma.
 
 ### Go Check Out
 
