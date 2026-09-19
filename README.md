@@ -4,19 +4,17 @@
 
 <h2>Projects</h2>
 
-### Currently Building
-* **[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease. First release out now.
-* **[Ember](https://github.com/amapara27/ember):** CPU Inference Runtime for local llms.
-* **[FlashAttention-2 Kernel](https://github.com/amapara27/flash-attention):** FlashAttention-2 Kernel in CUDA; currently implementing tensor cores with PTX and mma.
+### Current
+**[Ember](https://github.com/amapara27/ember):** CPU Inference Runtime for local llms.
 
-### Go Check Out
-
-* **[Scribe Shield](https://github.com/amapara27/scribeshield):** 🥇 *1st Place (VillageHacks ASU)*. Healthcare speech-to-text that uses a fine-tuned model and ML to detect errors and verify critical medical information with a 4.14% word error rate. 
-* **[Recon](https://github.com/amapara27/recon-ethereum-security):** Engineered a live, full-stack fraud detection engine for Ethereum and ERC-20 transactions. Containerized on AWS for sub-second latency block processing.
-* **[CarbonIQ](https://github.com/amapara27/carbon-iq):** 🥇 *1st Place - Best Use of Solana (Innovation Hacks 2.0)*. dAPP on the Solana Blockchain that links your real-world spending to a carbon score that directly boosts your staking yield—rewarding you financially for living more sustainably.
-* **[Pulse](https://github.com/amapara27/pulse-trading-agent):** Orchestrated a multi-tool RAG agent that aggregates live quantitative metrics and breaking news sentiment to synthesize insights on equities and financial markets.
-* **[MosquitoNet](https://youtu.be/-F4rKyE8HS4)** Computer Vision Application deployed on an NVIDIA Jetson Nano that detects over 80 species of mosquitoes to prevent disease transmission.
-* **[Bridge](https://github.com/ibrahim-alii/bridge):** An educational dev tool to bridge the gap between AI-assisted code generation and actual developer comprehension.
+### Prev
+**[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease. First release out now.
+**[FlashAttention-2 Kernel](https://github.com/amapara27/flash-attention):** FlashAttention-2 Kernel in CUDA.
+**[ScribeShield](https://github.com/amapara27/scribeshield):** 🥇 *1st Place (VillageHacks ASU)*. Fine-tuned STT pipeline for reliable telemedicine transcription and care plan generation.
+**[Recon](https://github.com/amapara27/recon-ethereum-security):** Live Ethereum transaction fraud detection dashboard and smart contract analyzer.
+**[CarbonIQ](https://github.com/amapara27/carbon-iq):** 🥇 *1st Place - Best Use of Solana (Innovation Hacks 2.0)*. Solana dApp that increases staking rewards based on sustainable purchases.
+**[Pulse](https://github.com/amapara27/pulse-trading-agent):** Track your theses and stay up to date on how your investments are performing.
+**[MosquitoNet](https://youtu.be/-F4rKyE8HS4)** Computer Vision Application deployed on an NVIDIA Jetson Nano that detects over 80 species of mosquitoes to prevent disease transmission.
 
 <h2>My Stack</h2>
 
