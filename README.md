@@ -1,13 +1,13 @@
-# Aayan Mapara
+## Aayan Mapara
 
-**AI + ML** | **Embedded Systems** | **Inference**
+AI + ML | Embedded Systems | Inference
 
-<h2>Projects</h2>
+### Projects
 
-### Current
+*Current*
 * **[Ember](https://github.com/amapara27/ember):** CPU Inference Runtime for local llms.
 
-### Prev
+*Prev*
 * **[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease. First release out now.
 * **[FlashAttention-2 Kernel](https://github.com/amapara27/flash-attention):** FlashAttention-2 Kernel in CUDA.
 * **[ScribeShield](https://github.com/amapara27/scribeshield):** 🥇 *1st Place (VillageHacks ASU)*. Fine-tuned STT pipeline for reliable telemedicine transcription and care plan generation.
@@ -16,9 +16,9 @@
 * **[Pulse](https://github.com/amapara27/pulse-trading-agent):** Track your theses and stay up to date on how your investments are performing.
 * **[MosquitoNet](https://youtu.be/-F4rKyE8HS4)** Computer Vision Application deployed on an NVIDIA Jetson Nano that detects over 80 species of mosquitoes to prevent disease transmission.
 
-<h2>My Stack</h2>
+### Stack
 
-### Languages
+*Languages*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +26,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### AI / ML
+*AI/ML*
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -35,7 +35,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Embedded Systems
+*Embedded Systems*
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Nvidia Jetson](https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
