@@ -5,16 +5,16 @@
 <h2>Projects</h2>
 
 ### Current
-**[Ember](https://github.com/amapara27/ember):** CPU Inference Runtime for local llms.
+* **[Ember](https://github.com/amapara27/ember):** CPU Inference Runtime for local llms.
 
 ### Prev
-**[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease. First release out now.
-**[FlashAttention-2 Kernel](https://github.com/amapara27/flash-attention):** FlashAttention-2 Kernel in CUDA.
-**[ScribeShield](https://github.com/amapara27/scribeshield):** 🥇 *1st Place (VillageHacks ASU)*. Fine-tuned STT pipeline for reliable telemedicine transcription and care plan generation.
-**[Recon](https://github.com/amapara27/recon-ethereum-security):** Live Ethereum transaction fraud detection dashboard and smart contract analyzer.
-**[CarbonIQ](https://github.com/amapara27/carbon-iq):** 🥇 *1st Place - Best Use of Solana (Innovation Hacks 2.0)*. Solana dApp that increases staking rewards based on sustainable purchases.
-**[Pulse](https://github.com/amapara27/pulse-trading-agent):** Track your theses and stay up to date on how your investments are performing.
-**[MosquitoNet](https://youtu.be/-F4rKyE8HS4)** Computer Vision Application deployed on an NVIDIA Jetson Nano that detects over 80 species of mosquitoes to prevent disease transmission.
+* **[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease. First release out now.
+* **[FlashAttention-2 Kernel](https://github.com/amapara27/flash-attention):** FlashAttention-2 Kernel in CUDA.
+* **[ScribeShield](https://github.com/amapara27/scribeshield):** 🥇 *1st Place (VillageHacks ASU)*. Fine-tuned STT pipeline for reliable telemedicine transcription and care plan generation.
+* **[Recon](https://github.com/amapara27/recon-ethereum-security):** Live Ethereum transaction fraud detection dashboard and smart contract analyzer.
+* **[CarbonIQ](https://github.com/amapara27/carbon-iq):** 🥇 *1st Place - Best Use of Solana (Innovation Hacks 2.0)*. Solana dApp that increases staking rewards based on sustainable purchases.
+* **[Pulse](https://github.com/amapara27/pulse-trading-agent):** Track your theses and stay up to date on how your investments are performing.
+* **[MosquitoNet](https://youtu.be/-F4rKyE8HS4)** Computer Vision Application deployed on an NVIDIA Jetson Nano that detects over 80 species of mosquitoes to prevent disease transmission.
 
 <h2>My Stack</h2>
 
