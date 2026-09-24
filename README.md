@@ -5,7 +5,8 @@ AI + ML | Embedded Systems | Inference
 ### Projects
 
 *Current*
-* **[Ember](https://github.com/amapara27/ember):** CPU Inference Runtime for local llms.
+* **[Ember](https://github.com/amapara27/ember):** Adaptive Inference for MacOS.
+* **[JevPilot](https://github.com/amapara27/jev-pilot)** Control your desktop cheaper + faster. Powered by Jev. 
 
 *Prev*
 * **[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease. First release out now.
