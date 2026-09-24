@@ -6,7 +6,7 @@ AI + ML | Embedded Systems | Inference
 
 *Current*
 * **[Ember](https://github.com/amapara27/ember):** Adaptive Inference for MacOS.
-* **[JevPilot](https://github.com/amapara27/jev-pilot)** Control your desktop cheaper + faster. Powered by Jev. 
+* **[JevPilot](https://github.com/amapara27/jev-pilot)** Control your desktop with your voice. Powered by Jev. 
 
 *Prev*
 * **[Anchor](https://github.com/amapara27/anchor):** Find, fit, and benchmark local models with ease. First release out now.
