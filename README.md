@@ -13,8 +13,8 @@ check out my projects below, but also head to <a href="https://aayanmapara.com">
 
 find, fit, and benchmark local models on Apple Silicon.
 
-- tells you whether a model fits your Mac before you download it
-- measures decode speed and time to first token on Ollama or MLX, in a desktop app and a CLI
+- indicates whether a model fits your Mac before you download it
+- measures decode speed and time to first token over multiple runtimes based on researched methodology
 
 </td>
 <td width="50%" height="250" valign="top">
