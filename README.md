@@ -13,9 +13,9 @@ GPU Kernels<br>
 
 CUDA kernels written from scratch, each checked against a reference and profiled.
 
-- [FlashAttention-2](https://github.com/amapara27/flash-attention): 2.66 ms at N=4096, d=64 (4 heads), 6.8× faster than my first version
-- [SGEMM](https://github.com/amapara27/sgemm): 90.9% of cuBLAS performance on 4096×4096 matrices
-- [Reductions](https://github.com/amapara27/cuda-reductions): a progression of CUDA reduction kernels, built before FA2
+- [FlashAttention-2](https://github.com/amapara27/flash-attention): 2.66 ms at N=4096, 4 heads, 6.8× faster than naive
+- [SGEMM](https://github.com/amapara27/sgemm): 90.9% of cuBLAS performance
+- [Reductions](https://github.com/amapara27/cuda-reductions): a progression of CUDA reduction kernels
 
 </td>
 <td width="50%" height="280" valign="top">
