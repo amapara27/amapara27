@@ -8,18 +8,6 @@ check out my projects below, but also head to <a href="https://aayanmapara.com">
 <tr>
 <td width="50%" height="250" valign="top">
 
-GPU Kernels<br>
-<sub><i>CUDA · C++ · FP16 · Nsight Compute · Nsight Systems</i></sub>
-
-CUDA kernels written from scratch, each checked against a reference and profiled.
-
-- [FlashAttention-2](https://github.com/amapara27/flash-attention): 2.66 ms at N=4096, 4 heads, 6.8× faster than my first multi-head version
-- [SGEMM](https://github.com/amapara27/sgemm): 90.9% of cuBLAS performance
-- [Reductions](https://github.com/amapara27/cuda-reductions): a progression of CUDA reduction kernels
-
-</td>
-<td width="50%" height="250" valign="top">
-
 [Anchor](https://github.com/amapara27/anchor)<br>
 <sub><i>Rust · Tauri · React · Ollama · MLX</i></sub>
 
@@ -54,4 +42,16 @@ healthcare phone-call transcription that flags uncertain words and corrects only
 
 </td>
 </tr>
+<td width="50%" height="250" valign="top">
+
+GPU Kernels<br>
+<sub><i>CUDA · C++ · FP16 · Nsight Compute · Nsight Systems</i></sub>
+
+CUDA kernels written from scratch, each checked against a reference and profiled.
+
+- [FlashAttention-2](https://github.com/amapara27/flash-attention): 2.66 ms at N=4096, 4 heads, 6.8× faster than my first multi-head version
+- [SGEMM](https://github.com/amapara27/sgemm): 90.9% of cuBLAS performance
+- [Reductions](https://github.com/amapara27/cuda-reductions): a progression of CUDA reduction kernels
+
+</td>
 </table>
