@@ -6,19 +6,19 @@ check out my projects below, but also head to <a href="https://aayanmapara.com">
 ## Projects
 <table>
 <tr>
-<td width="50%" height="280" valign="top">
+<td width="50%" height="250" valign="top">
 
 GPU Kernels<br>
 <sub><i>CUDA · C++ · FP16 · Nsight Compute · Nsight Systems</i></sub>
 
 CUDA kernels written from scratch, each checked against a reference and profiled.
 
-- [FlashAttention-2](https://github.com/amapara27/flash-attention): 2.66 ms at N=4096, 4 heads, 6.8× faster than naive
+- [FlashAttention-2](https://github.com/amapara27/flash-attention): 2.66 ms at N=4096, 4 heads, 6.8× faster than my first multi-head version
 - [SGEMM](https://github.com/amapara27/sgemm): 90.9% of cuBLAS performance
 - [Reductions](https://github.com/amapara27/cuda-reductions): a progression of CUDA reduction kernels
 
 </td>
-<td width="50%" height="280" valign="top">
+<td width="50%" height="250" valign="top">
 
 [Anchor](https://github.com/amapara27/anchor)<br>
 <sub><i>Rust · Tauri · React · Ollama · MLX</i></sub>
@@ -31,7 +31,7 @@ find, fit, and benchmark local models on Apple Silicon.
 </td>
 </tr>
 <tr>
-<td width="50%" height="280" valign="top">
+<td width="50%" height="250" valign="top">
 
 [Jev Pilot](https://github.com/amapara27/jev-pilot)<br>
 <sub><i>Python · Nemotron Speech · Jev</i></sub>
@@ -42,7 +42,7 @@ control your Mac with spoken commands. 300+ downloads
 - checks each result before continuing to the next command
 
 </td>
-<td width="50%" height="280" valign="top">
+<td width="50%" height="250" valign="top">
 
 [ScribeShield](https://github.com/amapara27/scribeshield)<br>
 <sub><i>Python · PyTorch · Whisper (LoRA) · FastAPI</i></sub>
