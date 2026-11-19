@@ -7,61 +7,54 @@ check out my projects below, but also head to <a href="https://aayanmapara.com"/
 <tr>
 <td width="50%" valign="top">
 
-<h3>GPU kernels</h3>
+GPU kernels
+
 <sub><i>CUDA C++ · FP16 · Nsight Compute</i></sub>
 
-<p>CUDA kernels written from scratch, each checked against a reference and profiled.</p>
+CUDA kernels written from scratch, each checked against a reference and profiled.
 
-<ul>
-<li><a href="https://github.com/amapara27/flash-attention">FlashAttention-2 forward</a>: 2.66 ms at N=4096, d=64 (4 heads), 6.8× faster than my first multi-head version</li>
-<li><a href="https://github.com/amapara27/sgemm">SGEMM</a>: 90.9% of cuBLAS on 4096×4096 matrices</li>
-<li><a href="https://github.com/amapara27/cuda-reductions">Reductions</a>: a progression of CUDA reduction kernels, built before FA2</li>
-</ul>
+- [FlashAttention-2 forward](https://github.com/amapara27/flash-attention): 2.66 ms at N=4096, d=64 (4 heads), 6.8× faster than my first multi-head version
+- [SGEMM](https://github.com/amapara27/sgemm): 90.9% of cuBLAS on 4096×4096 matrices
+- [Reductions](https://github.com/amapara27/cuda-reductions): a progression of CUDA reduction kernels, built before FA2
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/amapara27/anchor">Anchor</a></h3>
+[Anchor](https://github.com/amapara27/anchor)
+
 <sub><i>Rust · Tauri · React · Ollama · MLX</i></sub>
 
-<p>find, fit, and benchmark local models on Apple Silicon.</p>
+find, fit, and benchmark local models on Apple Silicon.
 
-<ul>
-<li>tells you whether a model fits your Mac before you download it</li>
-<li>measures decode speed and time to first token on Ollama or MLX, in a desktop app and a CLI</li>
-</ul>
+- tells you whether a model fits your Mac before you download it
+- measures decode speed and time to first token on Ollama or MLX, in a desktop app and a CLI
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/amapara27/jev-pilot">Jev Pilot</a></h3>
+[Jev Pilot](https://github.com/amapara27/jev-pilot)
+
 <sub><i>Python · Nemotron Speech · Jev</i></sub>
 
-<p>control your Mac with spoken commands.</p>
+control your Mac with spoken commands. 300+ pypi downloads 
 
-<ul>
-<li>transcribes speech locally, then Jev picks a grounded action</li>
-<li>checks each result before continuing to the next command</li>
-<li>300+ PyPI downloads (excluding mirrors)</li>
-</ul>
+- transcribes speech locally, then Jev picks a grounded action
+- checks each result before continuing to the next command
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/amapara27/scribeshield">ScribeShield</a></h3>
+[ScribeShield](https://github.com/amapara27/scribeshield)
+
 <sub><i>Python · PyTorch · Whisper (LoRA) · FastAPI</i></sub>
 
-<p>healthcare phone-call transcription that flags uncertain words and corrects only with evidence.</p>
+healthcare phone-call transcription that flags uncertain words and corrects only with evidence.
 
-<ul>
-<li>1st place at VillageHacks 2026; led a team of four and built the fine-tuned model and serving backend</li>
-<li>LoRA fine-tuned Whisper Small: 4.14% word error rate on a synthetic telephony benchmark (commercial baseline: low 20s%)</li>
-</ul>
+- 1st place at VillageHacks 2026; I led a team of four and built the fine-tuned model and serving backend
+- LoRA fine-tuned Whisper Small: 4.14% word error rate
 
 </td>
 </tr>
 </table>
-
-Also: [Recon](https://github.com/amapara27/recon-ethereum-security), live Ethereum fraud detection and contract auditing.
