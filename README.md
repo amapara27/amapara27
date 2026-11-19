@@ -1,14 +1,14 @@
 ## Aayan Mapara
 
-currently working on ai tools, exploring inference, and researching ml systems + compilers.  //
-check out my projects below, but also head to <a href="https://aayanmapara.com"/>my website</a> to learn more about me.
+currently working on ai tools, exploring inference, and researching ml systems + compilers.<br>
+check out my projects below, but also head to <a href="https://aayanmapara.com">my website</a> to learn more about me.
 
 ## Projects
 <table>
 <tr>
 <td width="50%" valign="top">
 
-GPU Kernels //
+GPU Kernels<br>
 <sub><i>CUDA · C++ · FP16 · Nsight Compute · Nsight Systems</i></sub>
 
 CUDA kernels written from scratch, each checked against a reference and profiled.
@@ -20,7 +20,7 @@ CUDA kernels written from scratch, each checked against a reference and profiled
 </td>
 <td width="50%" valign="top">
 
-[Anchor](https://github.com/amapara27/anchor) //
+[Anchor](https://github.com/amapara27/anchor)<br>
 <sub><i>Rust · Tauri · React · Ollama · MLX</i></sub>
 
 find, fit, and benchmark local models on Apple Silicon.
@@ -33,10 +33,10 @@ find, fit, and benchmark local models on Apple Silicon.
 <tr>
 <td width="50%" valign="top">
 
-[Jev Pilot](https://github.com/amapara27/jev-pilot) //
+[Jev Pilot](https://github.com/amapara27/jev-pilot)<br>
 <sub><i>Python · Nemotron Speech · Jev</i></sub>
 
-control your Mac with spoken commands. 300+ downloads 
+control your Mac with spoken commands. 300+ downloads
 
 - transcribes speech locally, then Jev picks a grounded action
 - checks each result before continuing to the next command
@@ -44,7 +44,7 @@ control your Mac with spoken commands. 300+ downloads
 </td>
 <td width="50%" valign="top">
 
-[ScribeShield](https://github.com/amapara27/scribeshield) //
+[ScribeShield](https://github.com/amapara27/scribeshield)<br>
 <sub><i>Python · PyTorch · Whisper (LoRA) · FastAPI</i></sub>
 
 healthcare phone-call transcription that flags uncertain words and corrects only with evidence.
