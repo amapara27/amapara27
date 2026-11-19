@@ -17,8 +17,6 @@ find, fit, and benchmark local models on Apple Silicon.
 - measures decode speed and time to first token on Ollama or MLX, in a desktop app and a CLI
 
 </td>
-</tr>
-<tr>
 <td width="50%" height="250" valign="top">
 
 [Jev Pilot](https://github.com/amapara27/jev-pilot)<br>
@@ -30,6 +28,8 @@ control your Mac with spoken commands. 300+ downloads
 - checks each result before continuing to the next command
 
 </td>
+</tr>
+<tr>
 <td width="50%" height="250" valign="top">
 
 [ScribeShield](https://github.com/amapara27/scribeshield)<br>
@@ -41,7 +41,6 @@ healthcare phone-call transcription that flags uncertain words and corrects only
 - LoRA fine-tuned Whisper Small: 4.14% word error rate
 
 </td>
-</tr>
 <td width="50%" height="250" valign="top">
 
 GPU Kernels<br>
@@ -54,4 +53,5 @@ CUDA kernels written from scratch, each checked against a reference and profiled
 - [Reductions](https://github.com/amapara27/cuda-reductions): a progression of CUDA reduction kernels
 
 </td>
+</tr>
 </table>
