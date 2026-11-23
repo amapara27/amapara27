@@ -33,7 +33,7 @@ control your Mac with spoken commands. 300+ downloads
 <td width="50%" height="250" valign="top">
 
 [ScribeShield](https://github.com/amapara27/scribeshield)<br>
-<sub><i>Python · PyTorch · Whisper (LoRA) · FastAPI</i></sub>
+<sub><i>Python · PyTorch · Transformers · LoRA · FastAPI</i></sub>
 
 healthcare phone-call transcription that flags uncertain words and corrects only with evidence.
 
